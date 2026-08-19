@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zahra 👋
 
-<!--
-**ZahraHoseini66/ZahraHoseini66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack .NET Developer** with 8+ years of professional software development experience, currently based in Hamburg, Germany.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Backend:** C#, .NET, ASP.NET Core, ASP.NET MVC, REST APIs, Entity Framework Core
+* **Database:** SQL Server, T-SQL
+* **Frontend:** Razor, JavaScript, jQuery, Bootstrap
+* **Tools & Testing:** Git, xUnit, Docker, Visual Studio
+
+## 🚀 Currently Working On
+
+### ShoppingList API
+
+An ongoing ASP.NET Core Web API project for managing shopping lists, stores, products, and items.
+
+**Tech:** C# · ASP.NET Core · Entity Framework Core · SQL Server · JWT Authentication · xUnit
+
+[View ShoppingListApp on GitHub](https://github.com/ZahraHoseini66/ShoppingListApp)
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/hoseini-zahra/)
